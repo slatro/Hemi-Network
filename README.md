@@ -49,7 +49,7 @@ source ~/.bashrc
 
 ```
 
-Her şey bu kadardı. Biraz bekledikten sonra çıktıklarınız aşağıdaki gibi görünecek;
+Her şey bu kadardı, Biraz bekledikten sonra çıktıklarınız aşağıdaki gibi görünecek;
 
 ```json
 
